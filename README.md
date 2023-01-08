@@ -1,5 +1,8 @@
 ### Hey there 👋
-💬 Ask me about Fronten
+ 🤪 I'm Rheichtum 
+- 🔭 I’m currently working on CSS
+- 👯 I’m looking to collaborate on HTML&CSS...
+- 🤔 I’m looking for help with Html, Css & JavaScript
 
 <!--
 **Rheichtum/Rheichtum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
