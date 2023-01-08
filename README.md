@@ -1,7 +1,7 @@
 ### Hey there 👋
  🤪 I'm Rheichtum 
 - 🔭 I’m currently working on CSS
-- 👯 I’m looking to collaborate on HTML&CSS...
+- 👯 I’m looking to collaborate on HTML & CSS...
 - 🤔 I’m looking for help with Html, Css & JavaScript
 
 <!--
