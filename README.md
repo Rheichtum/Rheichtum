@@ -2,9 +2,8 @@
  🤪 I'm Rheichtum 
 - 🔭 I’m currently working on CSS
 - 👯 I’m looking to collaborate on HTML & CSS...
-- 🤔 I’m looking for help with Html, Css & JavaScript
-
-<!--
+- 🤔 I’m looking for help with eMacs, Shell Navigation. Flowchart & Vi
+<!--📚 well i know a know what a Sandbox is
 **Rheichtum/Rheichtum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
